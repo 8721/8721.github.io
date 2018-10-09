@@ -1,13 +1,13 @@
 # Site settings
 title: Blog by ZERO
-SEOTitle: 鲁鲁修的博客
+SEOTitle: 8721的博客
 header-img: img/post-bg-desk.jpg
 email: sunhfutjian@gmail.com
 description: "以梦为马"
-keyword: "孙健的博客, C++"
+keyword: "赵阳的博客, C++"
 url: "https://sunhfutjian.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/sunhfutjian/sunhfutjian.github.io.git" # you code repository
+github_repo: "https://github.com/8721/8721.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
